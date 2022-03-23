@@ -1,2 +1,5 @@
 # KDD-Databases
-Collection of databases for the KDD exercise
+
+Collection of databases used in our [KDD exercises](https://github.com/FAU-CS6/KDD).
+
+
